@@ -13,7 +13,7 @@ var Hero = (function () {
 }());
 exports.Hero = Hero;
 var HEROES = [
-    { id: 11, name: 'Mr. Nice' },
+    { id: 11, name: 'Mr. Mukai' },
     { id: 12, name: 'Narco' },
     { id: 13, name: 'Bombasto' },
     { id: 14, name: 'Celeritas' },
